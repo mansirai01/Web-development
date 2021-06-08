@@ -1,0 +1,21 @@
+.inner{
+		width:100%;
+		height: auto;
+		position: relative;
+		margin: 0 auto;
+		padding: 75px 0;
+		text-align: center;
+	}
+
+#blockquote{
+		background:#191919;
+		padding:55px 0;
+	}
+
+	#blockquote p.blockquote{
+		font-size:28px;
+	}
+
+.no-padding{
+		padding:0 !important;
+	}
